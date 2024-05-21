@@ -1,8 +1,0 @@
-continent	sum	wild	poultry	other
-Africa	2497	240	2214	43
-Antarctica	2	2	0	0
-Asia	11778	2569	8518	691
-Europe	5338	2841	2459	38
-North America	2886	1177	1600	109
-Oceania	31	21	10	0
-South America	74	43	29	2
